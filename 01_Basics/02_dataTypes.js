@@ -18,4 +18,5 @@ symbol => unique
 object
 
 */
+const id = Symbol('1234');
 console.log(typeof null);
